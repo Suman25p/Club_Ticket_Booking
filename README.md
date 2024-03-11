@@ -1,6 +1,6 @@
 Club_Ticket_Booking
 
--4th Sem Computer Lab Assignment
+-4th Sem Computer Networks Lab Assignment
 
 
 -Client Server Program 
